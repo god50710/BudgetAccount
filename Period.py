@@ -1,5 +1,7 @@
 class Period(object):
     def __init__(self, start_date, end_date):
+        if start_date > end_date:
+            raise TypeError
         self.start_date = start_date
         self.end_date = end_date
 
