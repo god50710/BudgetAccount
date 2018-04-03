@@ -10,6 +10,7 @@ class BudgetAccount(object):
             period.start_date = self.budgets.first_day()
         if period.end_date > self.budgets.last_day():
             period.end_date = self.budgets.last_day()
-        return period.days()
+        return period.days() * self.budgets.amount_of_day()
+
 
 

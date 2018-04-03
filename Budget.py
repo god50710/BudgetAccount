@@ -14,3 +14,6 @@ class Budget(object):
         return datetime.strptime(
             self.year_month+str(calendar.monthrange(
                 int(self.year_month[0:3]), int(self.year_month[4:]))[1]), '%Y%m%d')
+
+    def amount_of_day(self):
+        return self.amount / int(self.last_day().day)
