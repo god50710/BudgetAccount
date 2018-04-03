@@ -39,6 +39,11 @@ class TestBudgetAccount(TestCase):
     def test_invalid_period(self):
         self.assertRaises(Exception, Period, self, datetime(2017, 3, 20), datetime(2017, 3, 19))
 
+    def test_amount_is_100(self):
+        ba = BudgetAccount(Budget('201703', 3100))
+        period = Period(datetime(2017, 3, 1), datetime(2017, 3, 5))
+        self.amount_should_be(ba, period, 500)
+
     def amount_should_be(self, ba, period, expect_amount):
         self.assertEqual(ba.total_amount(period), expect_amount)
 
