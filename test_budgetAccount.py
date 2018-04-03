@@ -26,6 +26,16 @@ class TestBudgetAccount(TestCase):
         period = Period(datetime(2017, 4, 1), datetime(2017, 4, 2))
         self.amount_should_be(ba, period, 0)
 
+    def test_one_overlapping_day_period_cross_budget_last_day(self):
+        ba = BudgetAccount(Budget('201703', 31))
+        period = Period(datetime(2017, 3, 30), datetime(2017, 4, 2))
+        self.amount_should_be(ba, period, 2)
+
+    def test_one_overlapping_day_period_cross_budget_first_day(self):
+        ba = BudgetAccount(Budget('201703', 31))
+        period = Period(datetime(2017, 2, 28), datetime(2017, 3, 5))
+        self.amount_should_be(ba, period, 5)
+
     def test_invalid_period(self):
         self.assertRaises(Exception, Period, self, datetime(2017, 3, 20), datetime(2017, 3, 19))
 

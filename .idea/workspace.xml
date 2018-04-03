@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64870c7e-1ec6-40d1-ad45-e85e1e4e983b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/BudgetAccount.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BudgetAccount.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Period.py" beforeDir="false" afterPath="$PROJECT_DIR$/Period.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test_budgetAccount.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_budgetAccount.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,8 +16,8 @@
       <file leaf-file-name="test_budgetAccount.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test_budgetAccount.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="25" column="67" lean-forward="true" selection-start-line="25" selection-start-column="67" selection-end-line="25" selection-end-column="67" />
+            <state relative-caret-position="364">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -51,7 +46,7 @@
       <file leaf-file-name="Budget.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Budget.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
+            <state relative-caret-position="336">
               <caret line="16" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
@@ -228,9 +223,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_test_budgetAccount_py - 2018.04.03 at 13h 31m 39s.xml">
-      <configuration name="Unittests in test_budgetAccount.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_in_test_budgetAccount_py - 2018.04.03 at 13h 32m 28s.xml">
       <configuration name="Unittests in test_budgetAccount.py" configurationId="tests" />
     </history-entry>
@@ -258,17 +250,21 @@
     <history-entry file="Unittests_in_test_budgetAccount_py - 2018.04.03 at 13h 38m 04s.xml">
       <configuration name="Unittests in test_budgetAccount.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_in_test_budgetAccount_py - 2018.04.03 at 13h 43m 00s.xml">
+      <configuration name="Unittests in test_budgetAccount.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-1693" y="79" width="1400" height="970" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.121875" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16907515" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.2015896" side_tool="true" weight="0.35128805" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32865497" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.7984104" visible="true" weight="0.32943678" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7984104" weight="0.3625731" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -277,7 +273,6 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3290398" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
     </layout>
@@ -403,13 +398,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Budget.py">
+    <entry file="file://$PROJECT_DIR$/Period.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="84">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -420,17 +412,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Period.py">
+    <entry file="file://$PROJECT_DIR$/Budget.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        <state relative-caret-position="336">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test_budgetAccount.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="25" column="67" lean-forward="true" selection-start-line="25" selection-start-column="67" selection-end-line="25" selection-end-column="67" />
+        <state relative-caret-position="364">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
