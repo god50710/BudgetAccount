@@ -51,7 +51,3 @@ class TestBudgetAccount(TestCase):
 
     def amount_should_be(self, ba, period, expect_amount):
         self.assertEqual(ba.total_amount(period), expect_amount)
-
-
-
-
