@@ -8,12 +8,5 @@ class BudgetAccount(object):
             return 0
         effective_amount = 0
         for budget in self.budgets:
-            print(budget.amount)
-            if period.start_date < budget.first_day():
-                period.start_date = budget.first_day()
-            if period.end_date > budget.last_day():
-                period.end_date = budget.last_day()
-            effective_amount += period.days() * budget.amount_of_day()
+            effective_amount += budget.effective_amount(period)
         return effective_amount
-
-

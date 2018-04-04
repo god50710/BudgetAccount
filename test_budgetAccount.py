@@ -45,9 +45,9 @@ class TestBudgetAccount(TestCase):
         self.amount_should_be(ba, period, 500)
 
     def test_multiple_budgets_with_overlapping_days(self):
-        ba = BudgetAccount([Budget('201703', 3100), Budget('201704', 30)])
-        period = Period(datetime(2017, 3, 30), datetime(2017, 4, 2))
-        self.amount_should_be(ba, period, 202)
+        ba = BudgetAccount(Budget('201703', 3100), Budget('201704', 30))
+        period = Period(datetime(2017, 3, 29), datetime(2017, 4, 2))
+        self.amount_should_be(ba, period, 302)
 
     def amount_should_be(self, ba, period, expect_amount):
         self.assertEqual(ba.total_amount(period), expect_amount)

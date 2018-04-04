@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64870c7e-1ec6-40d1-ad45-e85e1e4e983b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/BudgetAccount.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BudgetAccount.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget.py" beforeDir="false" afterPath="$PROJECT_DIR$/Budget.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BudgetAccount.py" beforeDir="false" afterPath="$PROJECT_DIR$/BudgetAccount.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Period.py" beforeDir="false" afterPath="$PROJECT_DIR$/Period.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test_budgetAccount.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_budgetAccount.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,8 +22,8 @@
       <file leaf-file-name="test_budgetAccount.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_budgetAccount.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="1008">
+              <caret line="48" column="31" lean-forward="true" selection-start-line="48" selection-start-column="31" selection-end-line="48" selection-end-column="31" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -29,13 +34,13 @@
       <file leaf-file-name="Period.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Period.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
+            <state relative-caret-position="126">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BudgetAccount.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BudgetAccount.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BudgetAccount.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="147">
@@ -44,11 +49,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Budget.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Budget.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Budget.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+            <state relative-caret-position="84">
+              <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -72,16 +77,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Period.py" />
-        <option value="$PROJECT_DIR$/Budget.py" />
         <option value="$PROJECT_DIR$/test_budgetAccount.py" />
         <option value="$PROJECT_DIR$/BudgetAccount.py" />
+        <option value="$PROJECT_DIR$/Period.py" />
+        <option value="$PROJECT_DIR$/Budget.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1606" />
-    <option name="y" value="67" />
+    <option name="y" value="40" />
     <option name="width" value="1400" />
     <option name="height" value="970" />
   </component>
@@ -224,58 +228,58 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_test_budgetAccount_py - 2018.04.03 at 14h 00m 45s.xml">
+    <history-entry file="Unittests_in_test_budgetAccount_py - 2018.04.03 at 23h 50m 35s.xml">
       <configuration name="Unittests in test_budgetAccount.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_budgetAccount_py - 2018.04.03 at 14h 03m 37s.xml">
+    <history-entry file="Unittests_in_test_budgetAccount_py - 2018.04.03 at 23h 51m 16s.xml">
       <configuration name="Unittests in test_budgetAccount.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_budgetAccount_py - 2018.04.03 at 14h 05m 49s.xml">
+    <history-entry file="Unittests_in_test_budgetAccount_py - 2018.04.03 at 23h 57m 43s.xml">
       <configuration name="Unittests in test_budgetAccount.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_budgetAccount_py - 2018.04.03 at 14h 10m 55s.xml">
+    <history-entry file="Unittests_in_test_budgetAccount_py - 2018.04.03 at 23h 59m 48s.xml">
       <configuration name="Unittests in test_budgetAccount.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_budgetAccount_py - 2018.04.03 at 14h 15m 08s.xml">
+    <history-entry file="Unittests_in_test_budgetAccount_py - 2018.04.04 at 00h 05m 01s.xml">
       <configuration name="Unittests in test_budgetAccount.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_budgetAccount_py - 2018.04.03 at 14h 15m 27s.xml">
+    <history-entry file="Unittests_in_test_budgetAccount_py - 2018.04.04 at 00h 06m 11s.xml">
       <configuration name="Unittests in test_budgetAccount.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_budgetAccount_py - 2018.04.03 at 15h 20m 55s.xml">
+    <history-entry file="Unittests_in_test_budgetAccount_py - 2018.04.04 at 14h 46m 15s.xml">
       <configuration name="Unittests in test_budgetAccount.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_budgetAccount_py - 2018.04.03 at 15h 57m 10s.xml">
+    <history-entry file="Unittests_in_test_budgetAccount_py - 2018.04.04 at 14h 47m 13s.xml">
       <configuration name="Unittests in test_budgetAccount.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_budgetAccount_py - 2018.04.03 at 15h 57m 29s.xml">
+    <history-entry file="Unittests_in_test_budgetAccount_py - 2018.04.04 at 15h 50m 50s.xml">
       <configuration name="Unittests in test_budgetAccount.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_budgetAccount_py - 2018.04.03 at 15h 58m 00s.xml">
+    <history-entry file="Unittests_in_test_budgetAccount_py - 2018.04.04 at 15h 54m 30s.xml">
       <configuration name="Unittests in test_budgetAccount.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1606" y="67" width="1400" height="970" extended-state="0" />
+    <frame x="0" y="40" width="1400" height="970" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16907515" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.2015896" side_tool="true" weight="0.35128805" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32865497" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.7984104" visible="true" weight="0.3625731" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.7984104" visible="true" weight="0.3618267" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32786885" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -306,6 +310,74 @@
     <option name="LAST_COMMIT_MESSAGE" value="pass test_half_month_period_has_budget" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test_budgetAccount.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="48" column="67" selection-start-line="48" selection-start-column="67" selection-end-line="48" selection-end-column="67" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BudgetAccount.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Budget.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="18" column="45" lean-forward="true" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Period.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_budgetAccount.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Period.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Budget.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BudgetAccount.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test_budgetAccount.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
@@ -399,20 +471,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Budget.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test_budgetAccount.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="1008">
+          <caret line="48" column="31" lean-forward="true" selection-start-line="48" selection-start-column="31" selection-end-line="48" selection-end-column="31" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
@@ -421,8 +483,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Period.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
+        <state relative-caret-position="126">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
@@ -430,6 +492,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Budget.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
